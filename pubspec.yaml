@@ -1,0 +1,41 @@
+name: pms_rental_app
+description: An offline-first property management system for receptionist & admin built with Clean Architecture, SQLite, and Riverpod.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  # State Management & DI
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+
+  # Database
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.6
+  path: ^1.8.3
+  path_provider: ^2.1.1
+
+  # Security & Helpers
+  crypto: ^3.0.3
+  intl: ^0.20.2
+  uuid: ^4.3.3
+  file_picker: ^8.0.0
+
+  # Icons Design
+  flutter_svg: ^2.0.10
+  lucide_icons: ^0.257.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  riverpod_generator: ^2.3.9
+  build_runner: ^2.4.8
+
+flutter:
+  uses-material-design: true

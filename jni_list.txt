@@ -1,0 +1,1032 @@
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                android                                                                                                                                                                                       
+d-----          6/2/2026  12:22 AM                bin                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                example                                                                                                                                                                                       
+d-----          6/2/2026  12:22 AM                java                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                lib                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                linux                                                                                                                                                                                         
+d-----          6/2/2026  12:22 AM                src                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                test                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                third_party                                                                                                                                                                                   
+d-----          6/2/2026  12:22 AM                tool                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                windows                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM            258 analysis_options.yaml                                                                                                                                                                         
+-a----          6/2/2026  12:22 AM          11423 CHANGELOG.md                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM            252 dart_test.yaml                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM           4751 ffigen.yaml                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM            579 ffigen_exts.yaml                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           1503 LICENSE                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM           1242 pubspec.yaml                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM           2231 README.md                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\android
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                src                                                                                                                                                                                           
+-a----          6/2/2026  12:22 AM           1967 build.gradle                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM             47 consumer-rules.pro                                                                                                                                                                            
+-a----          6/2/2026  12:22 AM            152 README.md                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM             25 settings.gradle                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\android\src
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                main                                                                                                                                                                                          
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\android\src\main
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                java                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            119 AndroidManifest.xml                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\android\src\main\java
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                com                                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\android\src\main\java\com
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                github                                                                                                                                                                                        
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\android\src\main\java\com\github
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                dart_lang                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\android\src\main\java\com\github\dart_lang
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                jni                                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\android\src\main\java\com\github\dart_lang\jni
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            779 JniPlugin.java                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\bin
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           9549 setup.dart                                                                                                                                                                                    
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                android                                                                                                                                                                                       
+d-----          6/2/2026  12:22 AM                integration_test                                                                                                                                                                              
+d-----          6/2/2026  12:22 AM                lib                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                linux                                                                                                                                                                                         
+d-----          6/2/2026  12:22 AM                macos                                                                                                                                                                                         
+d-----          6/2/2026  12:22 AM                windows                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM            302 analysis_options.yaml                                                                                                                                                                         
+-a----          6/2/2026  12:22 AM           3899 pubspec.yaml                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM             55 README.md                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                app                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                gradle                                                                                                                                                                                        
+-a----          6/2/2026  12:22 AM            322 build.gradle                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM             82 gradle.properties                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM            726 settings.gradle                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                src                                                                                                                                                                                           
+-a----          6/2/2026  12:22 AM           1783 build.gradle                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                debug                                                                                                                                                                                         
+d-----          6/2/2026  12:22 AM                main                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                profile                                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\debug
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            425 AndroidManifest.xml                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                java                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                kotlin                                                                                                                                                                                        
+d-----          6/2/2026  12:22 AM                res                                                                                                                                                                                           
+-a----          6/2/2026  12:22 AM           1684 AndroidManifest.xml                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\java
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                com                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                io                                                                                                                                                                                            
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\java\com
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                github                                                                                                                                                                                        
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\java\com\github
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                dart_lang                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\java\com\github\dart_lang
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                jni_example                                                                                                                                                                                   
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\java\com\github\dart_lang\jni_example
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            877 Toaster.java                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\java\io
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                flutter                                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\java\io\flutter
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                plugins                                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\kotlin
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                dev                                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\kotlin\dev
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                dart                                                                                                                                                                                          
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\kotlin\dev\dart
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                jni_example                                                                                                                                                                                   
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\kotlin\dev\dart\jni_example
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            137 MainActivity.kt                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                drawable                                                                                                                                                                                      
+d-----          6/2/2026  12:22 AM                drawable-v21                                                                                                                                                                                  
+d-----          6/2/2026  12:22 AM                mipmap-hdpi                                                                                                                                                                                   
+d-----          6/2/2026  12:22 AM                mipmap-mdpi                                                                                                                                                                                   
+d-----          6/2/2026  12:22 AM                mipmap-xhdpi                                                                                                                                                                                  
+d-----          6/2/2026  12:22 AM                mipmap-xxhdpi                                                                                                                                                                                 
+d-----          6/2/2026  12:22 AM                mipmap-xxxhdpi                                                                                                                                                                                
+d-----          6/2/2026  12:22 AM                values                                                                                                                                                                                        
+d-----          6/2/2026  12:22 AM                values-night                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\drawable
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            434 launch_background.xml                                                                                                                                                                         
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\drawable-v21
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            438 launch_background.xml                                                                                                                                                                         
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\mipmap-hdpi
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            544 ic_launcher.png                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\mipmap-mdpi
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            442 ic_launcher.png                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\mipmap-xhdpi
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            721 ic_launcher.png                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\mipmap-xxhdpi
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           1031 ic_launcher.png                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\mipmap-xxxhdpi
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           1443 ic_launcher.png                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\values
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            996 styles.xml                                                                                                                                                                                    
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\main\res\values-night
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            995 styles.xml                                                                                                                                                                                    
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\app\src\profile
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            425 AndroidManifest.xml                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\gradle
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                wrapper                                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\android\gradle\wrapper
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            231 gradle-wrapper.properties                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\integration_test
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           1426 on_device_jni_test.dart                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\lib
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           5698 main.dart                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\linux
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                flutter                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM           5191 CMakeLists.txt                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM            180 main.cc                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM           3720 my_application.cc                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM            388 my_application.h                                                                                                                                                                              
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\linux\flutter
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           2815 CMakeLists.txt                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                Flutter                                                                                                                                                                                       
+d-----          6/2/2026  12:22 AM                Runner                                                                                                                                                                                        
+d-----          6/2/2026  12:22 AM                Runner.xcodeproj                                                                                                                                                                              
+d-----          6/2/2026  12:22 AM                Runner.xcworkspace                                                                                                                                                                            
+-a----          6/2/2026  12:22 AM           1330 Podfile                                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Flutter
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            125 Flutter-Debug.xcconfig                                                                                                                                                                        
+-a----          6/2/2026  12:22 AM            127 Flutter-Release.xcconfig                                                                                                                                                                      
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                Assets.xcassets                                                                                                                                                                               
+d-----          6/2/2026  12:22 AM                Base.lproj                                                                                                                                                                                    
+d-----          6/2/2026  12:22 AM                Configs                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM            214 AppDelegate.swift                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM            348 DebugProfile.entitlements                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM           1060 Info.plist                                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM            393 MainFlutterWindow.swift                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM            240 Release.entitlements                                                                                                                                                                          
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner\Assets.xcassets
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                AppIcon.appiconset                                                                                                                                                                            
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner\Assets.xcassets\AppIcon.appiconset
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM          46993 app_icon_1024.png                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM           3276 app_icon_128.png                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           1429 app_icon_16.png                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM           5933 app_icon_256.png                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           1243 app_icon_32.png                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM          14800 app_icon_512.png                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           1874 app_icon_64.png                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM           1291 Contents.json                                                                                                                                                                                 
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner\Base.lproj
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM          23729 MainMenu.xib                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner\Configs
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            626 AppInfo.xcconfig                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM             77 Debug.xcconfig                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM             79 Release.xcconfig                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM            580 Warnings.xcconfig                                                                                                                                                                             
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner.xcodeproj
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                project.xcworkspace                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                xcshareddata                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM          21335 project.pbxproj                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner.xcodeproj\project.xcworkspace
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                xcshareddata                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            238 IDEWorkspaceChecks.plist                                                                                                                                                                      
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner.xcodeproj\xcshareddata
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                xcschemes                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner.xcodeproj\xcshareddata\xcschemes
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           3205 Runner.xcscheme                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner.xcworkspace
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                xcshareddata                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM            152 contents.xcworkspacedata                                                                                                                                                                      
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\macos\Runner.xcworkspace\xcshareddata
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            238 IDEWorkspaceChecks.plist                                                                                                                                                                      
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\windows
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                flutter                                                                                                                                                                                       
+d-----          6/2/2026  12:22 AM                runner                                                                                                                                                                                        
+-a----          6/2/2026  12:22 AM           3907 CMakeLists.txt                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\windows\flutter
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           3562 CMakeLists.txt                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\windows\runner
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                resources                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM           1190 CMakeLists.txt                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM           1762 flutter_window.cpp                                                                                                                                                                            
+-a----          6/2/2026  12:22 AM            928 flutter_window.h                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           1271 main.cpp                                                                                                                                                                                      
+-a----          6/2/2026  12:22 AM            432 resource.h                                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM            859 runner.exe.manifest                                                                                                                                                                           
+-a----          6/2/2026  12:22 AM           2882 Runner.rc                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM           1691 utils.cpp                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM            672 utils.h                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM           7024 win32_window.cpp                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           3350 win32_window.h                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\example\windows\runner\resources
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM          33772 app_icon.ico                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                gradle                                                                                                                                                                                        
+d-----          6/2/2026  12:22 AM                src                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                ~                                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM            783 build.gradle.kts                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           8692 gradlew                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM           2918 gradlew.bat                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM            159 README.md                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM             25 settings.gradle.kts                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\gradle
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                wrapper                                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM            580 libs.versions.toml                                                                                                                                                                            
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\gradle\wrapper
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM          43453 gradle-wrapper.jar                                                                                                                                                                            
+-a----          6/2/2026  12:22 AM            250 gradle-wrapper.properties                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\src
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                main                                                                                                                                                                                          
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\src\main
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                java                                                                                                                                                                                          
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\src\main\java
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                com                                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\src\main\java\com
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                github                                                                                                                                                                                        
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\src\main\java\com\github
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                dart_lang                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\src\main\java\com\github\dart_lang
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                jni                                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\src\main\java\com\github\dart_lang\jni
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            395 JniUtils.java                                                                                                                                                                                 
+-a----          6/2/2026  12:22 AM           2358 PortCleaner.java                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           1111 PortContinuation.java                                                                                                                                                                         
+-a----          6/2/2026  12:22 AM           5647 PortProxyBuilder.java                                                                                                                                                                         
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                dev                                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                native                                                                                                                                                                                        
+d-----          6/2/2026  12:22 AM                native2                                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                native                                                                                                                                                                                        
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native\native
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                pkgs                                                                                                                                                                                          
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native\native\pkgs
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                jnigen                                                                                                                                                                                        
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native\native\pkgs\jnigen
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                example                                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native\native\pkgs\jnigen\example
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                pdfbox_plugin                                                                                                                                                                                 
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native\native\pkgs\jnigen\example\pdfbox_plugin
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                dart_example                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native2
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                pkgs                                                                                                                                                                                          
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native2\pkgs
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                jnigen                                                                                                                                                                                        
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native2\pkgs\jnigen
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                example                                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native2\pkgs\jnigen\example
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                pdfbox_plugin                                                                                                                                                                                 
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\java\~\dev\native2\pkgs\jnigen\example\pdfbox_plugin
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                dart_example                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\lib
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                src                                                                                                                                                                                           
+-a----          6/2/2026  12:22 AM           3953 jni.dart                                                                                                                                                                                      
+-a----          6/2/2026  12:22 AM           1459 jni_symbols.yaml                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           2902 _internal.dart                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\lib\src
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                build_util                                                                                                                                                                                    
+d-----          6/2/2026  12:22 AM                lang                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                nio                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                third_party                                                                                                                                                                                   
+d-----          6/2/2026  12:22 AM                util                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           2207 accessors.dart                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM        1172184 core_bindings.dart                                                                                                                                                                            
+-a----          6/2/2026  12:22 AM           4133 errors.dart                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM           4413 jarray.dart                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM           6700 jclass.dart                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM           3792 jimplementer.dart                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM          12173 jni.dart                                                                                                                                                                                      
+-a----          6/2/2026  12:22 AM           5580 jobject.dart                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM          15039 jprimitives.dart                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           5420 jreference.dart                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM           2551 jvalues.dart                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM           2318 kotlin.dart                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM           1369 method_invocation.dart                                                                                                                                                                        
+-a----          6/2/2026  12:22 AM          23307 primitive_jarrays.dart                                                                                                                                                                        
+-a----          6/2/2026  12:22 AM           4082 types.dart                                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM            692 version_check.dart                                                                                                                                                                            
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\lib\src\build_util
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            830 build_util.dart                                                                                                                                                                               
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\lib\src\lang
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            632 jboolean.dart                                                                                                                                                                                 
+-a----          6/2/2026  12:22 AM            620 jbyte.dart                                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM            630 jcharacter.dart                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM            635 jdouble.dart                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM            632 jfloat.dart                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM            625 jinteger.dart                                                                                                                                                                                 
+-a----          6/2/2026  12:22 AM            620 jlong.dart                                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM           2770 jnumber.dart                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM            623 jshort.dart                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM           1106 jstring.dart                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM            445 lang.dart                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\lib\src\nio
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           6927 jbuffer.dart                                                                                                                                                                                  
+-a----          6/2/2026  12:22 AM           8937 jbyte_buffer.dart                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM            311 nio.dart                                                                                                                                                                                      
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\lib\src\third_party
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            291 generated_bindings.dart                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM          69263 global_env_extensions.dart                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM         230475 jni_bindings_generated.dart                                                                                                                                                                   
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\lib\src\util
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            898 jiterator.dart                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM           1799 jlist.dart                                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM           2474 jmap.dart                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM           1601 jset.dart                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM            302 util.dart                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\linux
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            566 CMakeLists.txt                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\src
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                include                                                                                                                                                                                       
+d-----          6/2/2026  12:22 AM                third_party                                                                                                                                                                                   
+-a----          6/2/2026  12:22 AM           1476 CMakeLists.txt                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM          16978 dartjni.c                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM           9581 dartjni.h                                                                                                                                                                                     
+-a----          6/2/2026  12:22 AM           1283 jni_constants.h                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM            252 README.md                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\src\include
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                bin                                                                                                                                                                                           
+d-----          6/2/2026  12:22 AM                internal                                                                                                                                                                                      
+-a----          6/2/2026  12:22 AM            865 analyze_snapshot_api.h                                                                                                                                                                        
+-a----          6/2/2026  12:22 AM            633 BUILD.gn                                                                                                                                                                                      
+-a----          6/2/2026  12:22 AM         151830 dart_api.h                                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM           2995 dart_api_dl.c                                                                                                                                                                                 
+-a----          6/2/2026  12:22 AM           9231 dart_api_dl.h                                                                                                                                                                                 
+-a----          6/2/2026  12:22 AM           3755 dart_embedder_api.h                                                                                                                                                                           
+-a----          6/2/2026  12:22 AM           7625 dart_native_api.h                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM          22890 dart_tools_api.h                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM            620 dart_version.h                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\src\include\bin
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           2452 dart_io_api.h                                                                                                                                                                                 
+-a----          6/2/2026  12:22 AM            910 native_assets_api.h                                                                                                                                                                           
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\src\include\internal
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            588 dart_api_dl_impl.h                                                                                                                                                                            
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\src\third_party
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM         102107 global_jni_env.c                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM          30854 global_jni_env.h                                                                                                                                                                              
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\test
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                test_util                                                                                                                                                                                     
+d-----          6/2/2026  12:22 AM                version_check                                                                                                                                                                                 
+-a----          6/2/2026  12:22 AM           3526 boxed_test.dart                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM           4806 debug_release_test.dart                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM           2165 exception_test.dart                                                                                                                                                                           
+-a----          6/2/2026  12:22 AM           9828 global_env_test.dart                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           1195 isolate_test.dart                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM          17167 jarray_test.dart                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM           5737 jbyte_buffer_test.dart                                                                                                                                                                        
+-a----          6/2/2026  12:22 AM           9629 jlist_test.dart                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM           7964 jmap_test.dart                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM          10403 jobject_test.dart                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM           7014 jset_test.dart                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM           1300 jstring_test.dart                                                                                                                                                                             
+-a----          6/2/2026  12:22 AM           4299 load_test.dart                                                                                                                                                                                
+-a----          6/2/2026  12:22 AM           2528 version_check_test.dart                                                                                                                                                                       
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\test\test_util
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           1459 test_util.dart                                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\test\version_check
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            318 fail_major.dart                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM            358 fail_minor.dart                                                                                                                                                                               
+-a----          6/2/2026  12:22 AM            389 pass.dart                                                                                                                                                                                     
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\third_party
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM          57971 jni.h                                                                                                                                                                                         
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\tool
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+d-----          6/2/2026  12:22 AM                wrapper_generators                                                                                                                                                                            
+-a----          6/2/2026  12:22 AM           2363 generate_ffi_bindings.dart                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM           2178 generate_ide_files.dart                                                                                                                                                                       
+-a----          6/2/2026  12:22 AM           2759 generate_jni_bindings.dart                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM           6094 generate_primitive_arrays.dart                                                                                                                                                                
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\tool\wrapper_generators
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM           1544 ffigen_util.dart                                                                                                                                                                              
+-a----          6/2/2026  12:22 AM          10810 generate_c_extensions.dart                                                                                                                                                                    
+-a----          6/2/2026  12:22 AM           9934 generate_dart_extensions.dart                                                                                                                                                                 
+-a----          6/2/2026  12:22 AM           3860 generate_helper_functions.dart                                                                                                                                                                
+-a----          6/2/2026  12:22 AM            306 logging.dart                                                                                                                                                                                  
+
+
+    Directory: E:\short-term-rental-manager-(flutter-architect)\windows\flutter\ephemeral\.plugin_symlinks\jni\windows
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                                          
+----                 -------------         ------ ----                                                                                                                                                                                          
+-a----          6/2/2026  12:22 AM            609 CMakeLists.txt                                                                                                                                                                                
+
+
+
